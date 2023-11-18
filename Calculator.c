@@ -25,3 +25,5 @@ int main()
         printf("Error! Operator is not correct. Enter valid operator.");
     }
 }
+
+// for git check 
